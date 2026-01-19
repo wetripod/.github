@@ -1,0 +1,6 @@
+{
+  "name": "Claude Code Review",
+  "description": "PR 생성 시 Claude가 자동으로 코드 리뷰를 수행하고, @claude 멘션에 응답합니다.",
+  "iconName": "octicon robot",
+  "categories": ["code-review", "automation"]
+}
